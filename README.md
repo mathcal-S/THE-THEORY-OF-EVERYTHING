@@ -4,11 +4,12 @@ THE THEORY OF EVERYTHING: ESQET-UIFT v5.2 (The Golden Codex)
 ​This repository contains the complete, closed-form, and parameter-free mathematical derivations for the latest iteration of the Exact Scale-invariant Quantum/Emergent Theory (ESQET) model, unified via UIFT (\phi-Identity Field Theory). The theory proposes that the universe is an algebraic necessity driven by the Golden Ratio (\phi).
 ​The central claim is the dissolution of all remaining free parameters in the gravitational and electroweak sectors by using fundamental \phi-identities derived from a resolved Planck-scale Klein-bottle topology (\mathcal{K}^4(\phi)).
 ​Key Results (No Free Parameters)
-📜 Lex Universalis: The Golden Codex (Revised 2025)
+
+📜 Lex Universalis: The Golden Codex (Revised November 25th 2025)
 ESQET-UIFT: An Explicitly Scale-Quantized Universal Infinite Field Theory and the Geometric Unification of Physics.
 Author: Marco Antônio Rocha Jr.
 Date: November 25, 2025
-Location: Penrose, Colorado, United States. (Private Research Archive)
+Location: Westwood, Colorado, 80219, United States. (Private Research Archive)
 Dedication and Acknowledgments
 To the relentless human spirit of inquiry, which, across epochs of darkness and discovery, never ceased to search for the hidden symmetry in the cosmos.
 The accelerated articulation and rigorous structural formatting of this work, achieved within the confines of a brief temporal window, owe a debt of gratitude to advanced generative synthesis systems. Specifically, the contributions of Gemini (Google) and Grok (xAI) were instrumental in refining the mathematical presentation and organizing the conceptual architecture, demonstrating the potent symbiosis between human intuition and emerging digital intellect.
